@@ -1,0 +1,105 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: arial, sans-serif;
+}
+
+.nav-white-item::before {
+	background-color: white !important;
+}
+
+.nav-item::before {
+	content: "";
+	position: absolute;
+	bottom: -5px; 
+	left: 0;
+	width: 0;
+	height: 2px;
+	background-color: #1B1717; 
+	transition: width 0.4s ease; 
+  }
+  
+  .nav-item:hover::before {
+	width: 100%;
+  }
+
+.hero {
+	clip-path: polygon(0 0, 80% 0, 45% 100%, 0 100%);
+}
+
+.hero-img {
+	background-image: url("assets/diaries_header.webp");
+}
+
+.paper {
+	background-image: url("assets/paper_services_2.jpg");
+}
+
+.restaurant {
+	background-image: url("assets/restaurant_services_2.jpg");
+}
+
+.diaries {
+	background-image: url("assets/diaries_services_2.jpg");
+}
+
+.team {
+	clip-path: polygon(0 0, 100% 10%, 100% 100%, 0 90%);
+	background-color: #2F4858;
+}
+
+.about-us {
+	background-image: url("assets/aboutUs.svg");
+}
+
+.footer {
+	clip-path: polygon(0 0%, 100% 30%, 100% 100%, 0 100%);
+	background-color: #2F4858;
+}
+
+.neon:hover {
+	color: white;
+	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #2F4858, 0 0 30px #2F4858, 0 0 40px #2F4858, 0 0 50px #2F4858, 0 0 75px #2F4858;
+  }
+
+@media (max-width: 1280px) {
+
+  .footer {
+	  clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0 100%);
+	  background-color: #2F4858;
+  }
+}
+
+@media (max-width: 1024px) {
+	.hero {
+		clip-path: polygon(0 0, 100% 0, 100% 75%, 0 100%);
+	}
+
+	.team {
+		clip-path: polygon(0 0, 100% 3%, 100% 100%, 0 97%);
+		background-color: #2f4858;
+	}
+	.footer {
+		clip-path: polygon(0 0%, 100% 10%, 100% 100%, 0 100%);
+		background-color: #2F4858;
+	}
+  }
+
+  @media (max-width: 768px) {
+	.nav-item::before {
+		background-color: white; 
+	  }
+  }
+
+
+  @media (max-width: 640px) {
+	.team {
+		clip-path: polygon(0 0, 100% 1%, 100% 100%, 0 99%);
+		background-color: #2F4858;
+	}
+  }
