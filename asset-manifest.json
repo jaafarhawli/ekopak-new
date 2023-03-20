@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/ekopak-new/static/css/main.627de8ea.css",
+    "main.js": "/ekopak-new/static/js/main.d87a7f25.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/diaries_services_3.png": "/ekopak-new/static/media/diaries_services_3.e37f14a160ce0e3a6625.png",
+    "static/media/paper_industry_header.png": "/ekopak-new/static/media/paper_industry_header.8e56c8687abfe1843ccf.png",
+    "static/media/kitchen_header.png": "/ekopak-new/static/media/kitchen_header.d34e1790037e832c91c6.png",
+    "static/media/paper_services_3.jpg": "/ekopak-new/static/media/paper_services_3.ec2d4eb001ab6a93381c.jpg",
+    "static/media/restaurant_services_3.jpg": "/ekopak-new/static/media/restaurant_services_3.8697321b5d75a9a25da7.jpg",
+    "static/media/paper_services_4.jpg": "/ekopak-new/static/media/paper_services_4.86afd24e16f396b3abf2.jpg",
+    "static/media/logo.png": "/ekopak-new/static/media/logo.3f4b69ec5f3113e2f556.png",
+    "static/media/diaries_services_1.webp": "/ekopak-new/static/media/diaries_services_1.45ffc94e9b56ba92b493.webp",
+    "static/media/diaries_services_2.jpg": "/ekopak-new/static/media/diaries_services_2.41560e2fcb629ac76a51.jpg",
+    "static/media/restaurant_services_1.jpg": "/ekopak-new/static/media/restaurant_services_1.b5b6766eefc7431ac5a8.jpg",
+    "static/media/restaurant_services_4.jpg": "/ekopak-new/static/media/restaurant_services_4.20d33bd3090a7a1fe19c.jpg",
+    "static/media/paper_services_2.jpg": "/ekopak-new/static/media/paper_services_2.acceb4817a83177e69ba.jpg",
+    "static/media/paper_services_1.webp": "/ekopak-new/static/media/paper_services_1.bb178d711c532f9b2bca.webp",
+    "static/media/diaries_header.webp": "/ekopak-new/static/media/diaries_header.5fe8ad86bef1435e6dfc.webp",
+    "static/media/restaurant_services_2.jpg": "/ekopak-new/static/media/restaurant_services_2.f0152cfd3cd0686fa8f3.jpg",
+    "static/media/diaries_services_4.webp": "/ekopak-new/static/media/diaries_services_4.4a582f435154ca90cda1.webp",
+    "index.html": "/ekopak-new/index.html",
+    "static/media/aboutUs.svg": "/ekopak-new/static/media/aboutUs.f80784b6de60eac5192a.svg",
+    "static/media/aboutUsFooter.svg": "/ekopak-new/static/media/aboutUsFooter.d2d05c8b7aa12462c82bbc71d7453126.svg",
+    "main.627de8ea.css.map": "/ekopak-new/static/css/main.627de8ea.css.map",
+    "main.d87a7f25.js.map": "/ekopak-new/static/js/main.d87a7f25.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.627de8ea.css",
+    "static/js/main.d87a7f25.js"
+  ]
+}
