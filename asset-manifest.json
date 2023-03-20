@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ekopak-new/static/css/main.627de8ea.css",
-    "main.js": "/ekopak-new/static/js/main.d87a7f25.js",
+    "main.css": "/ekopak-new/static/css/main.012b4fdd.css",
+    "main.js": "/ekopak-new/static/js/main.5239db6e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js",
     "static/media/diaries_services_3.png": "/ekopak-new/static/media/diaries_services_3.e37f14a160ce0e3a6625.png",
     "static/media/paper_industry_header.png": "/ekopak-new/static/media/paper_industry_header.8e56c8687abfe1843ccf.png",
@@ -22,12 +22,12 @@
     "index.html": "/ekopak-new/index.html",
     "static/media/aboutUs.svg": "/ekopak-new/static/media/aboutUs.f80784b6de60eac5192a.svg",
     "static/media/aboutUsFooter.svg": "/ekopak-new/static/media/aboutUsFooter.d2d05c8b7aa12462c82bbc71d7453126.svg",
-    "main.627de8ea.css.map": "/ekopak-new/static/css/main.627de8ea.css.map",
-    "main.d87a7f25.js.map": "/ekopak-new/static/js/main.d87a7f25.js.map",
+    "main.012b4fdd.css.map": "/ekopak-new/static/css/main.012b4fdd.css.map",
+    "main.5239db6e.js.map": "/ekopak-new/static/js/main.5239db6e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.627de8ea.css",
-    "static/js/main.d87a7f25.js"
+    "static/css/main.012b4fdd.css",
+    "static/js/main.5239db6e.js"
   ]
 }
