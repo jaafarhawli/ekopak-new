@@ -45,6 +45,7 @@ const Services = () => {
                   <img src={service==="paper" ? images.paperServices4 : service==="restaurant" ? images.restaurantServices4 : service==="diaries" ? images.diariesServices4 : null}  alt="" className=' object-cover flex-1 h-1/2 rounded-2xl' />
               </div>
             </div>
+            <div className=' h-12'></div>
       </Container>
       
       :
