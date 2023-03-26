@@ -20,7 +20,7 @@ const Navbar = () => {
   }, []);
 
   return (
-    <div className={isScrolled ? openNav ? openNavBarClass + '  bg-navy/90 md:bg-navy/90 lg:w-full' : closedNavBarClass + ' bg-navy/90 md:bg-navy/90 lg:w-full' : openNav ? openNavBarClass : closedNavBarClass}>
+    <div className={isScrolled ? openNav ? openNavBarClass + '  bg-navy md:bg-navy lg:w-full' : closedNavBarClass + ' bg-navy md:bg-navy lg:w-full' : openNav ? openNavBarClass : closedNavBarClass}>
       <GiHamburgerMenu className={`absolute top-6 right-6 md:hidden ${isScrolled || openNav ? 'text-white' : 'text-navy'} text-[24px] cursor-pointer`} onClick={() => setOpenNav(!openNav)} />
       <div className='self-start'>
       <Scroll to='header'><img src={logo} alt="" className={openNav ? 'w-[60px] mb-4 md:mb-0 select-none justify-start self-start cursor-pointer' : 'cursor-pointer select-none w-[60px] justify-start self-start'} /></Scroll>

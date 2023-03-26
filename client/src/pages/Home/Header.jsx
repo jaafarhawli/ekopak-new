@@ -15,9 +15,9 @@ const Header = () => {
         <div className='w-[50%] h-full'></div>
 
         <div className='lg:w-[50%] w-full h-full relative'>
-            <img src={images.diariesIMG} className='absolute right-[50%] translate-x-[50%] xl:w-[400px] sm:w-[300px] w-[250px] max-w-[400px] z-10 rounded-2xl xl:top-[150px] lg:top-[190px] top-[40px] hover:scale-110 hover:z-50 duration-300' alt="" />
-            <img src={images.paperIndustryIMG} className='absolute mx-auto right-[50%] -translate-x-6 2xl:w-[300px] xl:w-[250px] sm:w-[200px] w-[150px] 2xl:top-[400px] lg:top-[380px] top-[200px] rounded-2xl z-20 hover:scale-110 duration-300 hover:z-50' alt="" />
-            <img src={images.kitchenIMG} alt="" className='2xl:w-[300px] xl:w-[250px] sm:w-[200px] w-[150px] rounded-2xl absolute mx-auto left-[50%] translate-x-6 2xl:top-[400px] lg:top-[380px] top-[200px] hover:scale-110 duration-300 hover:z-50' />
+            <img src={images.kitchenIMG} className='absolute right-[50%] translate-x-[50%] xl:w-[350px] sm:w-[300px] w-[250px] max-w-[400px] z-10 rounded-2xl xl:top-[150px] lg:top-[190px] top-[40px] hover:scale-110 hover:z-50 duration-300' alt="" />
+            <img src={images.paperIndustryIMG} className='absolute mx-auto right-[50%] -translate-x-6 2xl:w-[250px] xl:w-[250px] sm:w-[200px] w-[150px] 2xl:top-[400px] lg:top-[380px] top-[200px] rounded-2xl z-20 hover:scale-110 duration-300 hover:z-50' alt="" />
+            <img src={images.diariesIMG} alt="" className='2xl:w-[250px] xl:w-[250px] sm:w-[200px] w-[150px] rounded-2xl absolute mx-auto left-[50%] translate-x-6 2xl:top-[400px] lg:top-[380px] top-[200px] hover:scale-110 duration-300 hover:z-50' />
         </div>
 
     </section>
