@@ -19,7 +19,7 @@ const images = {
     dintaLogo: require('./dinta.jpg'),
     lawOfficeLogo: require('./lawOffice.jpg'),
     team: require('./team.png'),
-    map: require('./MapChart_Map_22.png'),
+    map: require('./MapChart_Map_23.png'),
 } 
 
 export default images;
