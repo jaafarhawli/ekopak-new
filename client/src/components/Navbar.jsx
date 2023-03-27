@@ -7,8 +7,8 @@ const Navbar = () => {
 
   const [openNav, setOpenNav] = useState(false)
   const [isScrolled, setIsScrolled] = useState(false);
-  const openNavBarClass = 'flex flex-col bg-navy/90 md:bg-navy/0 lg:w-[80%] w-full md:flex-row md:py-4 py-8 2xl:px-24 px-12 justify-between items-center fixed z-[200] duration-500'
-  const closedNavBarClass = 'h-[70px] items-center w-full flex flex-col lg:w-[80%] md:flex-row py-4 2xl:px-24 px-12 justify-between align-middle fixed z-[200] duration-500'
+  const openNavBarClass = 'flex flex-col bg-navy/90 md:bg-navy/0 lg:w-[80%] w-full md:flex-row md:py-4 py-8 2xl:px-24 sm:px-12 px-4 justify-between items-center fixed z-[200] duration-500'
+  const closedNavBarClass = 'h-[70px] items-center w-full flex flex-col lg:w-[80%] md:flex-row py-4 2xl:px-24 sm:px-12 px-4 justify-between align-middle fixed z-[200] duration-500'
 
   useEffect(() => {
     const handleScroll = () => {

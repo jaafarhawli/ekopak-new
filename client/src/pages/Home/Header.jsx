@@ -6,9 +6,9 @@ const Header = () => {
   return (
     <section className='bg-primary-100 w-full lg:h-screen h-[900px] flex flex-col lg:flex-row justify-end items-center min-h-[800px]' id='header'>
 
-        <div className='hero bg-secondary lg:h-screen lg:min-h-[800px] h-[600px] 2xl:px-24 px-12 flex flex-col justify-center absolute top-0 left-0 w-full'>
-              <h1 className='lg:text-[70px] sm:text-[60px] text-[45px] font-bold text-navy 2xl:text-[90px] select-none'>EkoPak Sal</h1>
-              <p className='text-navy lg:text-[22px] text-[20px] 2xl:text-[28px] max-w-[650px] mt-6'>Quality supplies for every aspect of your business</p>
+        <div className='hero bg-secondary lg:h-screen lg:min-h-[800px] h-[600px] 2xl:px-24 sm:px-12 px-4 flex flex-col justify-center absolute top-0 left-0 w-full'>
+              <h1 className='sm:text-[60px] text-[40px] font-bold text-navy lg:max-w-[50%] select-none'>Quality supplies for every aspect of your business</h1>
+              {/* <p className='text-navy lg:text-[22px] text-[20px] 2xl:text-[28px] max-w-[650px] mt-6'>Quality supplies for every aspect of your business</p> */}
               <i className='text-navy lg:text-[20px] 2xl:text-[22px] text-[18px] 2xl:max-w-[650px] lg:max-w-[500px] mt-4'> Quality is essential in every aspect of business, and our products are designed to meet that need. Whether you need industry paper, diaries, or restaurant kitchen equipment, we provide top</i>
         </div>
 
