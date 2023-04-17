@@ -7,7 +7,7 @@ const TitleContainer = (props) => {
   return (
     <div className=" w-full bg-primary-100 h-48 flex justify-center items-end relative">
       <div
-        className="flex items-center absolute lg:left-28 left-4 top-6 gap-1 cursor-pointer"
+        className={`flex items-center absolute top-6 gap-1 cursor-pointer ${props.team? "xl:left-28 left-4" : "lg:left-28 left-4"}`}
         onClick={() => {
           navigate("/");
         }}

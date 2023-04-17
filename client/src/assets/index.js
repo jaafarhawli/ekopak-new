@@ -21,6 +21,10 @@ const images = {
     lawOfficeLogo: require('./lawOffice.jpg'),
     team: require('./team.png'),
     map: require('./MapChart_Map_24.png'),
+    KhalilHajjar: require('./Khalil_Hajjar.jpeg'),
+    JosianeMezher: require('./Josiane_Mezher.jpeg'),
+    CharbelChahine: require('./Charbel_Chahine.jpeg'),
+    CesarIbrahim: require('./Cesar_Ibrahim.jpg'),
 } 
 
 export default images;
