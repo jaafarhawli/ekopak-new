@@ -62,6 +62,40 @@
 	background-color: #2F4858;
 }
 
+
+
+.half-underline::after {
+	content: "";
+	position: absolute;
+	bottom: -5px; 
+	left: 0;
+	width: 50%;
+	height: 6px;
+	background-color: #1B1717; 
+}
+
+.about-header::after {
+	content: "";
+	position: absolute;
+	bottom: -25px; 
+	left: 0;
+	width: 50%;
+	height: 25px;
+	border-radius: 0 0 0 20px;
+	background-color: #810000; 
+}
+
+.about-header::before {
+	content: "";
+	position: absolute;
+	top: -25px; 
+	right: 0;
+	width: 50%;
+	height: 25px;
+	border-radius: 0 20px 0 0;
+	background-color: #EEEBDD; 
+}
+
 .neon:hover {
 	color: white;
 	text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #fff, 0 0 20px #2F4858, 0 0 30px #2F4858, 0 0 40px #2F4858, 0 0 50px #2F4858, 0 0 75px #2F4858;

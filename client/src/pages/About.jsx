@@ -1,23 +1,39 @@
-import React from 'react';
-import Navbar from '../components/Navbar';
-import aboutUsFooterSVG from '../assets/aboutUsFooter.svg';
+import React from "react";
+import TitleContainer from "../components/TitleContainer";
 
 const About = () => {
   return (
-    <div>
-      <Navbar />
-      <div className='about-us h-[250px] bg-no-repeat bg-center bg-cover w-full flex items-center justify-center'>
-        <h1 className='text-[42px] font-bold text-center text-white'>About Us</h1>
+    <div className="bg-secondary min-h-screen">
+      <TitleContainer firstWord="About" lastWord="Us" />
+      <div className="w-full lg:px-28 px-4 py-16 bg-secondary flex flex-col gap-8">
+        <p className=" text-[22px] text-center">
+          Welcome to EkoPak Sal, a trading company that specializes in providing
+          high-quality industrial paper, diary products, and industrial kitchen
+          equipment to factories in West Africa. Our company has a presence in
+          Nigeria, Senegal, and Ghana, and we have established ourselves as a
+          reliable and trusted provider of these products.
+        </p>
+        <p className=" text-[22px] text-center">
+          We source our products from around the world, including Austria,
+          Sweden, Brazil, China, and India, to ensure that our customers receive
+          the best quality products available. Our team of experts works
+          tirelessly to ensure that all our products meet the highest quality
+          standards and are delivered to our customers in a timely manner.
+        </p>
+        <p className=" text-[22px] text-center">
+          At EkoPak Sal, we take pride in our commitment to providing
+          exceptional customer service. Our knowledgeable staff is always
+          available to assist our customers with any questions or concerns they
+          may have. We value our customers' feedback and use it to improve our
+          products and services continually.
+        </p>
+        <p className=" text-[22px] text-center">
+          Thank you for choosing EkoPak Sal as your trusted provider of
+          industrial paper, diary products, and industrial kitchen equipment.
+        </p>
       </div>
-      <div className='w-full px-12 mt-8'>
-        <p className='mb-4 text-justify text-[22px]'>Welcome to EkoPak Sal, a leading trading company in industrial paper products. With a presence in Nigeria, Senegal, and Ghana, we have established a reputation as a reliable and trusted provider of high-quality paper products. Our company is committed to sourcing the best products from around the world, including Austria, Sweden, Brazil, China, and India, and delivering them to factories in West Africa.</p>
-        <p className='mb-4 text-justify text-[22px]'>At  EkoPak Sal, we understand the importance of having access to a wide range of industrial paper products to meet the demands of the ever-changing market. That's why we are dedicated to providing our customers with a diverse range of options, from packaging paper to printing paper, and everything in between. With a focus on quality and sustainability, we are committed to providing our customers with the best products and services available.</p>
-        <p className='mb-4 text-justify text-[22px]'>Our team of experts is dedicated to providing exceptional customer service, ensuring that your every need is met and that you are completely satisfied with your purchase. We understand the importance of meeting tight deadlines, and we work closely with our suppliers to ensure that our products are delivered on time and in perfect condition.</p>
-        <p className='mb-4 text-justify text-[22px]'>Thank you for considering  EkoPak Sal as your industrial paper trading partner. We look forward to working with you and helping your business thrive.</p>
-      </div>
-      <img src={aboutUsFooterSVG} className='w-full' alt="" />
     </div>
   );
-}
+};
 
 export default About;

@@ -1,4 +1,5 @@
 const images = {
+    logo: require(`./logo.png`),
     paperIndustryIMG: require(`./paper_industry_ai_1.jpg`),
     kitchenIMG: require(`./headerimg_bongard.png`),
     diariesIMG: require(`./diaries_ai_2.png`),
