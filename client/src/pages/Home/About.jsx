@@ -7,9 +7,9 @@ import Headline from '../../components/Headline';
 const About = () => {
   return (
     <Container className='bg-secondary flex lg:flex-row flex-col-reverse gap-10 relative' id='about'>
-      <img src={images.map} className='absolute top-0 left-0 h-full lg:block hidden max-w-[50%] object-cover' alt="" />
+      <img src={images.map} className='absolute top-0 left-0 h-full rounded-[50%] lg:block hidden max-w-[50%] object-cover' alt="" />
       <div className='lg:w-1/2 w-full flex justify-center items-center'>
-        <img src={images.map} alt="" className='sm:w-2/3 md:w-1/2' />
+        <img src={images.map} alt="" className='sm:w-2/3 md:w-1/2 rounded-[50%] lg:hidden' />
       </div>
       <div className='flex flex-col gap-10 lg:w-1/2 w-full'>
           <Headline className='text-navy'>About Us</Headline>
