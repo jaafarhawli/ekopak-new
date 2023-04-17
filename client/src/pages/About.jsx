@@ -1,7 +1,12 @@
-import React from "react";
+import React, {useEffect} from "react";
 import TitleContainer from "../components/TitleContainer";
 
 const About = () => {
+
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div className="bg-secondary min-h-screen">
       <TitleContainer firstWord="About" lastWord="Us" />

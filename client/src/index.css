@@ -1,12 +1,16 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@400;500;700&family=Questrial&family=Sarabun:wght@500&family=Ubuntu:wght@400;500&display=swap');
 
 * {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: arial, sans-serif;
+}
+
+body {
+	font-family: 'Sarabun', sans-serif;
 }
 
 .nav-white-item::before {
