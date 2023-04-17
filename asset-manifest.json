@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ekopak-new/static/css/main.e6815675.css",
-    "main.js": "/ekopak-new/static/js/main.71eda8e4.js",
+    "main.css": "/ekopak-new/static/css/main.c33cf408.css",
+    "main.js": "/ekopak-new/static/js/main.2fbb385b.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/paper_industry_ai_1.png": "/ekopak-new/static/media/paper_industry_ai_1.ec9a65dd130db7600932.png",
     "static/media/diaries_services_1.png": "/ekopak-new/static/media/diaries_services_1.daf8f133d05d7eba8c34.png",
     "static/media/diaries_ai_2.png": "/ekopak-new/static/media/diaries_ai_2.ea4fff2b1384df46a95b.png",
     "static/media/paper_services_3.jpg": "/ekopak-new/static/media/paper_services_3.ec2d4eb001ab6a93381c.jpg",
+    "static/media/restaurant_services_2.png": "/ekopak-new/static/media/restaurant_services_2.0bcd32ec5a6e5e0000b0.png",
     "static/media/headerimg_bongard.png": "/ekopak-new/static/media/headerimg_bongard.78de75c713a9674327ff.png",
-    "static/media/restaurant_services_3.jpg": "/ekopak-new/static/media/restaurant_services_3.8697321b5d75a9a25da7.jpg",
-    "static/media/MapChart_Map_23.png": "/ekopak-new/static/media/MapChart_Map_23.02c37ddffa973ffb31e0.png",
+    "static/media/restaurant_services_3.jpg": "/ekopak-new/static/media/restaurant_services_3.72fa0f8eb8212e874476.jpg",
+    "static/media/MapChart_Map_24.png": "/ekopak-new/static/media/MapChart_Map_24.6f04b942087ad9be3a84.png",
+    "static/media/paper_industry_ai_1.jpg": "/ekopak-new/static/media/paper_industry_ai_1.9769da84894ea8b7db40.jpg",
     "static/media/paper_services_4.jpg": "/ekopak-new/static/media/paper_services_4.86afd24e16f396b3abf2.jpg",
     "static/media/team.png": "/ekopak-new/static/media/team.92ccdcf12f20c070d3bf.png",
     "static/media/restaurant_services_1.jpg": "/ekopak-new/static/media/restaurant_services_1.55c9457569dd8489178c.jpg",
@@ -17,20 +18,22 @@
     "static/media/restaurant_services_4.jpg": "/ekopak-new/static/media/restaurant_services_4.a999372cce4e72768cf9.jpg",
     "static/media/diaries_services_2.jpg": "/ekopak-new/static/media/diaries_services_2.41560e2fcb629ac76a51.jpg",
     "static/media/diaries_services_3.jpg": "/ekopak-new/static/media/diaries_services_3.f978eeed21bf8b80ddda.jpg",
-    "static/media/restaurant_services_2.jpg": "/ekopak-new/static/media/restaurant_services_2.85dba85e640cc3684176.jpg",
+    "static/media/Khalil_Hajjar.jpeg": "/ekopak-new/static/media/Khalil_Hajjar.55a964059ab113cfff03.jpeg",
     "static/media/paper_services_2.jpg": "/ekopak-new/static/media/paper_services_2.acceb4817a83177e69ba.jpg",
+    "static/media/Josiane_Mezher.jpeg": "/ekopak-new/static/media/Josiane_Mezher.b08a1cb04cb3580f6ec0.jpeg",
+    "static/media/Cesar_Ibrahim.jpg": "/ekopak-new/static/media/Cesar_Ibrahim.4de82f9debd6e84e4cad.jpg",
     "static/media/paper_services_1.webp": "/ekopak-new/static/media/paper_services_1.bb178d711c532f9b2bca.webp",
     "static/media/diaries_services_4.jpg": "/ekopak-new/static/media/diaries_services_4.8d9b0e40f0c6f2b9a50f.jpg",
     "static/media/diaries_header.webp": "/ekopak-new/static/media/diaries_header.5fe8ad86bef1435e6dfc.webp",
+    "static/media/Charbel_Chahine.jpeg": "/ekopak-new/static/media/Charbel_Chahine.586b94f2ffa1e350e42a.jpeg",
     "index.html": "/ekopak-new/index.html",
     "static/media/aboutUs.svg": "/ekopak-new/static/media/aboutUs.f80784b6de60eac5192a.svg",
-    "static/media/aboutUsFooter.svg": "/ekopak-new/static/media/aboutUsFooter.d2d05c8b7aa12462c82bbc71d7453126.svg",
-    "main.e6815675.css.map": "/ekopak-new/static/css/main.e6815675.css.map",
-    "main.71eda8e4.js.map": "/ekopak-new/static/js/main.71eda8e4.js.map",
+    "main.c33cf408.css.map": "/ekopak-new/static/css/main.c33cf408.css.map",
+    "main.2fbb385b.js.map": "/ekopak-new/static/js/main.2fbb385b.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6815675.css",
-    "static/js/main.71eda8e4.js"
+    "static/css/main.c33cf408.css",
+    "static/js/main.2fbb385b.js"
   ]
 }
