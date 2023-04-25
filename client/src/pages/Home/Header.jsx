@@ -15,7 +15,7 @@ const Header = () => {
         </h1>
         <h2 className="text-navy lg:text-[20px] 2xl:text-[22px] text-[18px] 2xl:max-w-[650px] lg:max-w-[500px] mt-4">
           Quality is essential in every aspect of business, and our products are
-          designed to meet that need. Whether you need industry paper, diary products,
+          designed to meet that need. Whether you need industry paper, dairy products,
           or restaurant kitchen equipment, we provide top range of products and services
         </h2>
       </div>

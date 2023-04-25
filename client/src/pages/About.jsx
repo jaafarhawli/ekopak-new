@@ -13,7 +13,7 @@ const About = () => {
       <div className="w-full lg:px-28 px-4 py-16 bg-secondary flex flex-col gap-8">
         <p className=" text-[22px] text-justify">
           Welcome to EkoPak Sal, a trading company that specializes in providing
-          high-quality industrial paper, diary products, and industrial kitchen
+          high-quality industrial paper, dairy products, and industrial kitchen
           equipment to factories in West Africa. Our company has a presence in
           Nigeria, Senegal, and Ghana, and we have established ourselves as a
           reliable and trusted provider of these products.
@@ -34,7 +34,7 @@ const About = () => {
         </p>
         <p className=" text-[22px] text-justify">
           Thank you for choosing EkoPak Sal as your trusted provider of
-          industrial paper, diary products, and industrial kitchen equipment.
+          industrial paper, dairy products, and industrial kitchen equipment.
         </p>
       </div>
     </div>
