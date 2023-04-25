@@ -11,11 +11,11 @@ const Header = () => {
 
       <div className="lg:w-[50%] w-full lg:h-full flex-1 lg:mr-4 z-10 flex flex-col justify-center mb-6 lg:mb-0">
         <h1 className="capitalize xl:text-[60px]  sm:text-[50px] text-[40px] font-bold text-navy">
-          Quality supplies for every aspect of your business
+          We Provide Top Range Of Products And Services
         </h1>
         <h2 className="text-navy lg:text-[20px] 2xl:text-[22px] text-[18px] 2xl:max-w-[650px] lg:max-w-[500px] mt-4">
           Quality is essential in every aspect of business, and our products are
-          designed to meet that need. Whether you need industry paper, diaries,
+          designed to meet that need. Whether you need industry paper, diary products,
           or restaurant kitchen equipment, we provide top
         </h2>
       </div>

@@ -24,7 +24,7 @@ const images = {
     KhalilHajjar: require('./Khalil_Hajjar.jpeg'),
     JosianeMezher: require('./Josiane_Mezher.jpeg'),
     CharbelChahine: require('./Charbel_Chahine.jpeg'),
-    CesarIbrahim: require('./Cesar_Ibrahim.jpg'),
+    NaderHarakeh: require('./Nader_Harakeh.png'),
 } 
 
 export default images;

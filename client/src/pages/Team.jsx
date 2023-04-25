@@ -10,13 +10,13 @@ const Team = () => {
   return (
     <div className="min-h-screen bg-secondary">
       <TitleContainer firstWord="Our" lastWord="Team" team={true} />
-      <div className="w-full xl:px-28 px-4 py-16 bg-secondary lg:block flex flex-col-reverse">
-        <div className="lg:w-[50%] lg:min-w-[560px] flex gap-4 lg:ml-8 lg:mb-4 lg:float-right sm:flex-row flex-col">
+      <div className="w-full xl:px-28 px-4 py-16 bg-secondary xl:flex-row-reverse flex flex-col-reverse">
+        <div className="xl:w-[50%] xl:min-w-[560px] flex gap-4 lg:ml-8 lg:mb-4 sm:flex-row flex-col">
           <div className="flex flex-col gap-4 w-full">
             <TeamCard
               picture="KhalilHajjar"
               name="Khalil Hajjar"
-              description="Consultant Manager"
+              description="CEO"
             />
             <TeamCard
               picture="JosianeMezher"
@@ -31,16 +31,16 @@ const Team = () => {
               description="General Manager"
             />
             <TeamCard
-              picture="CesarIbrahim"
-              name="Cesar Ibrahim"
-              description="Project Manager"
+              picture="NaderHarakeh"
+              name="Nader Harakeh"
+              description="Project Manager In Qatar"
             />
           </div>
         </div>
 
-          <p className="text-[22px] text-justify mb-6 lg:mb-0">
+          <p className="text-[22px] text-justify mb-6 xl:mb-0">
             Our Company is managed by a team of experienced professionals who
-            are dedicated to ensuring the success of the company. Rana Lateif
+            are dedicated to ensuring the success of the company. Rana Lteif
             serves as the Deputy CEO, bringing a wealth of knowledge and
             experience to the table. As the second in command, Rana plays a
             crucial role in the overall strategic direction of the company and
