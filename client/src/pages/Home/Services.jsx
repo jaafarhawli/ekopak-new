@@ -150,7 +150,7 @@ const Services = () => {
               }
               onClick={() => setService("diaries")}
             >
-              Diaries
+              Diary Products
             </h2>
           </div>
 
