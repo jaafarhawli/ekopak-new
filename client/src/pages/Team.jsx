@@ -55,10 +55,10 @@ const Team = () => {
             the company grow and expand. She brings a wealth of experience in
             the industry and has a proven track record of success in developing
             new markets and building strong relationships with clients.<br /><br /> 
-            Cesar Ibrahim and Nader Harakeh are the Project Managers,
+            Nader Harakeh is the Project Manager in Qatar,
             responsible for overseeing specific projects and ensuring that they
-            are completed on time and within budget. Both bring a wealth of
-            experience and knowledge to their roles and are committed to
+            are completed on time and within budget. He brings a wealth of
+            experience and knowledge to his role and is committed to
             delivering high-quality work that meets the needs of the company and
             its clients.<br /><br /> 
             In conclusion, our Company is managed by a team of experienced and
