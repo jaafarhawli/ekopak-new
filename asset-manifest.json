@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ekopak-new/static/css/main.a65a5bba.css",
-    "main.js": "/ekopak-new/static/js/main.67385893.js",
+    "main.js": "/ekopak-new/static/js/main.29d315be.js",
     "static/js/787.c4e7f8f9.chunk.js": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js",
     "static/media/diaries_services_1.png": "/ekopak-new/static/media/diaries_services_1.daf8f133d05d7eba8c34.png",
     "static/media/diaries_ai_2.png": "/ekopak-new/static/media/diaries_ai_2.ea4fff2b1384df46a95b.png",
@@ -28,11 +28,11 @@
     "static/media/Khalil_Hajjar.jpeg": "/ekopak-new/static/media/Khalil_Hajjar.692183ab6fc8d80938f4.jpeg",
     "index.html": "/ekopak-new/index.html",
     "main.a65a5bba.css.map": "/ekopak-new/static/css/main.a65a5bba.css.map",
-    "main.67385893.js.map": "/ekopak-new/static/js/main.67385893.js.map",
+    "main.29d315be.js.map": "/ekopak-new/static/js/main.29d315be.js.map",
     "787.c4e7f8f9.chunk.js.map": "/ekopak-new/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a65a5bba.css",
-    "static/js/main.67385893.js"
+    "static/js/main.29d315be.js"
   ]
 }
