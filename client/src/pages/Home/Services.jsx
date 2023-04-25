@@ -7,7 +7,7 @@ const Services = () => {
   const [isSmallScreen, setIsSmallScreen] = useState(false);
   const [service, setService] = useState("paper");
   const serviceNameClass =
-    "xl:text-[32px] text-[28px] hover:bg-white hover:text-primary-100 duration-200 select-none cursor-pointer py-3";
+    "xl:text-[28px] text-[22px] hover:bg-white hover:text-primary-100 duration-200 select-none cursor-pointer py-3";
   const serviceNameSmallScreenClass =
     "text-[24px] hover:bg-white hover:text-primary-100 duration-200 select-none cursor-pointer py-3";
 
